@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T22:58:58.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RV0LNisMXxWUOlJk5fxi" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T23:00:27.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4z94phMtur6BNzGDdByC" version="24.0.6" type="github">
   <diagram name="Página-1" id="Q2ozTcVwoADJJKUGsbL5">
     <mxGraphModel dx="2138" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
         </mxCell>
         <object placeholders="1" c4Name="Sistema de envio de e-mail" c4Type="Software System" c4Description="Alertas de consulta: Notificar sobre consultas próximas, mudanças de horário, ou cancelamento." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="2KBJgyO3mOhLNZn7cUtl-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-100" y="160" width="240" height="120" as="geometry" />
+            <mxGeometry x="-130" y="120" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="uSQj5hFyWWffI1AD_4QT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2KBJgyO3mOhLNZn7cUtl-3" target="2KBJgyO3mOhLNZn7cUtl-4" edge="1">
@@ -126,8 +126,12 @@
             <mxGeometry x="-210" y="-490" width="240" height="160" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="JxBD6Y4pPafxmMDgyRIE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JxBD6Y4pPafxmMDgyRIE-17" target="2KBJgyO3mOhLNZn7cUtl-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JxBD6Y4pPafxmMDgyRIE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2KBJgyO3mOhLNZn7cUtl-3" target="JxBD6Y4pPafxmMDgyRIE-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-470" y="-421" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
